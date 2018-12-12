@@ -20,6 +20,7 @@ Eating
 - Snacking (ES)
 - Eating and talking (ET)
 - Drinking (ED)
+
 Not Eating
 - Talking (NT)
 - Silence (NS)
