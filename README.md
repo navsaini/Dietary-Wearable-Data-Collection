@@ -8,3 +8,27 @@
 ./write_to_file.py name_of_usb_port output.txt
 ```
 6. If it's working, it will start printing a bunch of values.
+
+## How to label files
+Name_Action_Environment_Orientation
+Ex: Nav_ED_A_C.txt
+
+### Actions
+Eating
+- Eating quietly (EQ)
+- Snacking (ES)
+- Eating and talking (ET)
+- Drinking (ED)
+Not Eating
+- Talking (NT)
+- Silence (NS)
+- Coughing (NC)
+
+### Environment
+- Alone (A)
+- In public (P)
+
+### Proximity Sensor Orientation
+- Left (L)
+- Center (C)
+- Right (R)
